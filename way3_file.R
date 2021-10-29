@@ -2,3 +2,8 @@
 sum <- 5 + 6
 
 #second set of changes
+sum2 <- 10 + 5
+
+
+#third set of changes
+sundays <- "happy Days"
